@@ -1,0 +1,36 @@
+#check ul{
+    height:20vh;
+    border:2px solid orange;
+    list-style:none;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    background-color: black;
+    align-items:center;
+}
+
+#image{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    gap:40px;
+   
+    
+    
+}
+
+#bgd ul{
+    height:25vh;
+    width:191vh;
+    list-style:none;
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    gap: 40px;
+}
+
+/* #more li{
+    height:2vh;
+    border:2px black;
+    list-style:none; }*/
